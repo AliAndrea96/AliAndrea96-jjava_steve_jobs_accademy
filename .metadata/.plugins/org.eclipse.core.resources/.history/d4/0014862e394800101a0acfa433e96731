@@ -1,0 +1,10 @@
+package Utente_Permessi;
+
+abstract class Utente {
+    protected String username;
+    protected String email;
+
+    public Utente(String username, String email) {
+        this.username = username;
+        this.email = email;
+    }

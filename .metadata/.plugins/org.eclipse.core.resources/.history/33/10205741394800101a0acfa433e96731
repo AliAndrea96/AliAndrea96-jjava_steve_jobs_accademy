@@ -1,0 +1,19 @@
+package Utente_Permessi;
+
+abstract class Utente {
+    protected String username;
+    protected String email;
+
+    public Utente(String username, String email) {
+        this.username = username;
+        this.email = email;
+    }
+
+    // Metodo astratto per ottenere i permessi
+    public abstract ArrayList<String> getPermessi();
+
+    // Metodo concreto per stampare le informazioni dell'utente
+    public void stampaInfo() {
+        System.out.println("Username: " + username + " - Email: " + email);
+    }
+}

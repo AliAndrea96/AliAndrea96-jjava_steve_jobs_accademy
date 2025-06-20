@@ -1,0 +1,19 @@
+package Animali;
+
+public class Main {
+    public static void main(String[] args) {
+        // Creazione del rifugio
+        Rifugio rifugio = new Rifugio();
+
+        // Creazione degli animali
+        Cane cane = new Cane("Rex");
+        Gatto gatto = new Gatto("Whiskers");
+
+        // Aggiunta degli animali al rifugio
+        rifugio.aggiungiAnimale(cane);
+        rifugio.aggiungiAnimale(gatto);
+
+        // Stampa dei versi degli animali
+        rifugio.stampaVersi();
+    }
+}

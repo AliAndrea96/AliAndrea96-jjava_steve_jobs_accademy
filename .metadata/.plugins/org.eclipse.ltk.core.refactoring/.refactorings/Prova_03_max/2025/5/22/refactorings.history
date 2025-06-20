@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;Prova_03_max&apos; to &apos;Provo_05_ereditarieta/src&apos;&#x0D;&#x0A;- Original project: &apos;Prova_03_max&apos;&#x0D;&#x0A;- Destination element: &apos;Provo_05_ereditarieta/src&apos;&#x0D;&#x0A;- Original element: &apos;Prova_03_max/src/Prova_03_max&apos;" description="Copy package" destination="=Provo_05_ereditarieta/src" element1="/src&lt;Prova_03_max" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1748592027731" version="1.0"/>
+</session>

@@ -1,0 +1,21 @@
+package geometria;
+
+class Rettangolo extends Forma {
+    private double lunghezza;
+    private double larghezza;
+
+    public Rettangolo(double lunghezza, double larghezza) {
+        this.lunghezza = lunghezza;
+        this.larghezza = larghezza;
+    }
+
+    @Override
+    public double calcolaArea() {
+        return lunghezza * larghezza;
+    }
+
+    @Override
+    public double calcolaPerimetro() {
+        return 2 * (lunghezza + larghezza);
+    }
+}
