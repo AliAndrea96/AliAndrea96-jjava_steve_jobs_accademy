@@ -1,15 +1,15 @@
-INDEX VERSION 1.134+C:\Users\alian\Desktop\Programmazione 1\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2023816200.index
-2135096898.index
-1024662029.index
-3078272771.index
-45382486.index
-3803894794.index
+INDEX VERSION 1.134+C:\Users\alian\Desktop\Programmazione1\.metadata\.plugins\org.eclipse.jdt.core
 3366767867.index
-2566279995.index
-516414421.index
-2136638587.index
 1808985427.index
-4186400351.index
+2566279995.index
+2135096898.index
 3819361936.index
+641745352.index
+4186400351.index
+1865797976.index
+516414421.index
+3078272771.index
+2023816200.index
+1024662029.index
+45382486.index
+2136638587.index
